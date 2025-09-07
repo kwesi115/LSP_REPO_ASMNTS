@@ -1,0 +1,5 @@
+I used AI to reformat my code in a more readalbe way and to make my variable names more understandalbe.
+Prompt: "reformat my code in a more readalbe way and make my variable names more understandalbe."
+
+I also used AI to add help me write comments for my code.
+Prompt: "Write informative comments for my code."
