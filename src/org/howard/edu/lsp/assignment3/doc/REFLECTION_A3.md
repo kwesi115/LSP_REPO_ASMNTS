@@ -38,4 +38,4 @@ I verified identical behavior using the same three cases:
 
 - The OO design adds a few files but reduces coupling and improves clarity.
 - The transformation order is enforced in `ProductTransformer` and documented in Javadocs to avoid regressions.
-- The runner (`ETLRunner`) preserves A2’s exact CLI behavior and relative paths.
+- The runner (`ETLRunner`) preserves A2’s exact CLI behavior and relative paths

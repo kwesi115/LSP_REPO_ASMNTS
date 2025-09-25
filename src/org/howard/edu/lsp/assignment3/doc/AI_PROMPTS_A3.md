@@ -9,7 +9,7 @@
 
 **Adaptation:** I followed this structure and adjusted method signatures to return an `ExtractionResult` containing counters so my summary matches the rubric.
 
----
+--
 
 ## Prompt 2
 
