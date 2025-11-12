@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/kwesim/Downloads/junit-platform-console-standalone-1.10.2.jar"
+  ]
+}
